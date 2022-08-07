@@ -1,0 +1,32 @@
+name: Projects
+source:
+  - icon: fa fa-github
+    name: TidyTuesday
+    description: Weekly submissions to the TidyTuesday data visualization challenge. 
+    url: https://github.com/bear-jordan/tidy-tuesday.git
+
+  - icon: fa fa-github
+    name: Volcano Resear.ch
+    description: Personal website under development following new updates in volcanology and statistics.
+    url: https://github.com/bear-jordan/volcano-resear.ch.git
+
+  - icon: fa fa-github
+    name: Who is Mastodon's lead singer?
+    description: Upcoming portfolio project focused on my favorite band.
+    url: https://github.com/nurlansu/hugo-sustain
+
+  - icon: fa fa-globe
+    name: Uranium and Vanadium Resources of Utah - an Update in the Era of Critical Minerals and Carbon Neutrality
+    description: Publication produced during my time at the Utah Geological Survey.
+    url: https://ugspub.nr.utah.gov/publications/open_file_reports/ofr-735.pdf
+
+  - icon: fa fa-globe
+    name: Geologic map of the Goat Mountain Quadrangle, Wyoming.
+    description: Map I produced as a contract geologist with they Wyoming State Geological Survey.
+    url: https://sales.wsgs.wyo.gov/preliminary-geologic-map-of-the-goat-mountain-quadrangle-albany-and-laramie-counties-wyoming-2021/
+
+  - icon: fa fa-globe
+    name: Geology of the Calhoun Critical Zone Observatory.
+    description: Master's thesis investigating the lithologies and structure of a long-term research field site.
+    url: https://www.proquest.com/docview/2413413958?pq-origsite=gscholar&fromopenview=true
+
